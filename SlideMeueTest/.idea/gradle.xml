@@ -12,6 +12,9 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/mainlibs" />
+            <option value="$PROJECT_DIR$/onekeyshare" />
+            <option value="$PROJECT_DIR$/share" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
